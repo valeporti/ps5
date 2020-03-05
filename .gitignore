@@ -2,3 +2,7 @@
 *checkpoint.ipynb
 output/*
 data/*
+/skills_ml/*
+*.gz
+models/*
+__pycache__/*
